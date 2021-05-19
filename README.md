@@ -1,6 +1,6 @@
 # Walk-sharing-model
 
-## Exploring the viability of walk-sharing in outdoor urban spaces
+## [Exploring the viability of walk-sharing in outdoor urban spaces](https://www.sciencedirect.com/science/article/pii/S0198971521000429) - Abstract
 
 Walking is the most common mode of travel, given its higher levels of accessibility, especially for short trips.
 Researchers have suggested that walking has significant health benefits as well as community benefits, and more walkable urban spaces leads to sustainable and liveable communities.
@@ -26,14 +26,26 @@ In walk-sharing, a potential pedestrian will get matched to another so that they
 Walk-sharing makes an attempt to ensure such spatio-temporal overlap between at least two pedestrians so that they can walk together while trying to optimise related costs (waiting time, detour distance) for both.
 This novel intervention is aimed at reviving the appeal of walking as a travel mode even at critical times of the day and the benefits that should follow thereafter.
 
-## Scehmatic framework of walk-sharing
+## Schematic framework of walk-sharing
 
-P_i and P_j are two pedestrians wanting to avail walk-sharing.
-After getting matched with each other, they leave from their respective origins (O_i and O_j) and walk to their advised meeting point (MP_{ij}).
-Consequently, they walk together and thus share their walk till their advised separation point (SP_{ij}).
-From the separation point, they walk alone towards their respective destinations (D_i and D_j).
+P<sub>i</sub> and P<sub>j</sub> are two pedestrians wanting to avail walk-sharing.
+After getting matched with each other, they leave from their respective origins (O<sub>i</sub> and O<sub>j</sub>) and walk to their advised meeting point (MP<sub>ij</sub>).
+Consequently, they walk together and thus share their walk till their advised separation point (SP<sub>ij</sub>).
+From the separation point, they walk alone towards their respective destinations (D<sub>i</sub> and D<sub>j</sub>).
 It must be noted that we have limited the scope of this study to pairwise walk-sharing only. 
 This means that in any single walk-share, the maximum number of participants is restricted to two people.
 
-![Schematic framework of walk-sharing](https://github.com/bitmixes/Walk-sharing-model/walksharing.jpg)
+![Schematic framework of walk-sharing](https://github.com/bitmixes/Walk-sharing-model/blob/master/walksharing.jpg)
+
+## GAMA
+
+For developing our agent-based simulation model, we chose GAMA as our platform. 
+> [GAMA](https://gama-platform.github.io/) (GIS Agent-based Modeling Architecture) 
+is a modeling and simulation development environment for building spatially explicit agent-based simulations.
+GAML is the language used in GAMA, coded in Java. 
+
+## Publications
+
+If you use this model or parts of it, make sure you cite our publication [Exploring the viability of walk-sharing in outdoor urban spaces](https://www.sciencedirect.com/science/article/pii/S0198971521000429).
+
 
