@@ -35,5 +35,5 @@ From the separation point, they walk alone towards their respective destinations
 It must be noted that we have limited the scope of this study to pairwise walk-sharing only. 
 This means that in any single walk-share, the maximum number of participants is restricted to two people.
 
-![Schematic framework of walk-sharing](https://github.com/[bitmixes]/[Walk-sharing-model]/walksharingconcept.png?raw=true)
+![Schematic framework of walk-sharing](https://github.com/bitmixes/Walk-sharing-model/walksharing.jpg)
 
