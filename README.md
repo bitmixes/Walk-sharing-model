@@ -48,4 +48,4 @@ GAML is the language used in GAMA, coded in Java.
 
 If you use this model or parts of it, make sure you cite our publication [Exploring the viability of walk-sharing in outdoor urban spaces](https://www.sciencedirect.com/science/article/pii/S0198971521000429).
 
-
+Feel free to contact me if you require any assistance.
